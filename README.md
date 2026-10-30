@@ -21,3 +21,5 @@ git push                    # 推到 GitHub
 ```bash
 python hello.py
 ```
+
+> 第二个提交，验证日常工作流。
